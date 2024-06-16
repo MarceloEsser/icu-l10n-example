@@ -1,0 +1,16 @@
+{
+  "appName": "Gourmeet",
+  "@appName": {
+    "description": "Product's/Application's name"
+  },
+  "apple": "Maçã",
+  "fruit": "{position, select, Maçã{0} Banana{1} Abacaxi{2} Abacate{3} Acerola{4} Ameixa{5} Amora{6} Araçá{7} Atemóia{8} Bacuri{9} Banana-nanica{10} Banana-da-terra{11} Carambola{12} Caju{13} Cereja{14} Cítara{15} Coco{16} Cupuaçu{17} Damasco{18} Figo{19} Goiaba{20} Graviola{21} Groselha{22} Jabuticaba{23} Jaca{24} Jambo{25} Jenipapo{26} Jerivá{27} Kiwi{28} Kumquat{29} Laranja{30} Limão{31} Lima{32} Mamão{33} Manga{34} Maracujá{35} Melancia{36} Melão{37} Mexerica{38} Mirtilo{39} Morango{40}",
+  "@fruit": {
+    "description": "List of fruits to select according to the position",
+    "placeholders": {
+      "position": {
+        "type": "String"
+      }
+    }
+  }
+}

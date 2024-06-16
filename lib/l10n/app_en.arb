@@ -1,0 +1,16 @@
+{
+  "appName": "Gourmeet",
+  "@appName": {
+    "description": "Product's/Application's name"
+  },
+  "apple": "Apple",
+  "fruit": "{position, select, Apple{0} Banana{1} Pineapple{2} Avocado{3} Barbados cherry{4} Plum{5} Blackberry{6} Araza{7} Atemoya{8} Bacuri{9} Dwarf banana{10} Plantain{11} Star fruit{12} Cashew{13} Cherry{14} Citron{15} Coconut{16} Cupuaçu{17} Apricot{18} Fig{19} Guava{20} Soursop{21} Currant{22} Jabuticaba{23} Jackfruit{24} Rose apple{25} Genipapo{26} Caimito{27} Kiwi{28} Kumquat{29} Orange{30} Lemon{31} Lime{32} Papaya{33} Mango{34} Passion fruit{35} Watermelon{36} Melon{37} Tangerine{38} Blueberry{39} Strawberry{40}}",
+  "@fruit": {
+    "description": "List of fruits to select according to the position",
+    "placeholders": {
+      "page": {
+        "type": "String"
+      }
+    }
+  }
+}
